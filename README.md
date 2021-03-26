@@ -4,7 +4,7 @@ This is a simple SPA that displays sixteen random users on every refresh by usin
 
 # Demo
 
-Here is a working live demo : 
+Here is a working live demo: https://react-node-random-users.netlify.app/
 
 # Tech Stack
 - React JS
