@@ -23,6 +23,7 @@ Here is a working live demo: https://react-node-random-users.netlify.app/
 - Implement a simple Express server
 - Connect to a backend server
 - Get and display data from an API
+- Responsive design
 
 
 # Screenshots
