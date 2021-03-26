@@ -1,59 +1,43 @@
-![Demo gif](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/demo.gif?raw=true)
-# React SimpleCRUD
+# React-Node | Random Users
 
-This is a simple SPA that handles Create, Read, Update, and Delete operations using React and JSON Server REST API. Semantic UI React was used for the UI and Google OAuth for user authentication
+This is a simple SPA that displays sixteen random users on every refresh by using [Random User Generator API](https://randomuser.me). It was built built using using React, Node.js, Express and Webpack. Semantic UI was used for the UI.
 
 # Demo
 
-Here is a working live demo : https://react-simplecrud.netlify.app
+Here is a working live demo : 
 
 # Tech Stack
 - React JS
 - React Hooks
-- React Router
 - Redux
-- Redux Thunk
-- Google OAuth
-- JSON Server (API REST)
-- Formik
+- Node.js
+- Express
+- Random User Generator (API)
 - Semantic UI
 - Axios
+- Webpack
 
 # What this app demonstrates
-- Navigating around to separate pages in our SPA
-- Ability for users login/logout using Google OAuth
-- Handling forms in Redux
-- CRUD Operations in React/Redux
-- Implement and use a REST API
 - Create React components using Hooks
-- Error handling
-
+- Handling data in Redux
+- Implement a simple Express server
+- Connect to a backend server
+- Get and display data from an API
 
 
 # Screenshots
-
-
-![Post list](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/PostList.png?raw=true)
-
-![Post delete](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/PostDelete.png?raw=true)
-
-![Post create](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/PostCreate.png?raw=true)
-
-![Post edit](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/PostEdit.png?raw=true)
-
-![Post detail](https://github.com/ignaciocasal/React-SimpleCRUD/blob/master/screenshots/PostShow.png?raw=true)
-
+--
 
 
 # Running app locally
 
 ## Run the App
-    $ npm install
+	$ npm install
 	$ npm start
 
 ## Run the API
-	$ cd api
-    $ npm install
-	$ npm start
+	$ cd server
+	$ npm install
+	$ npm run start-server
 	
 
