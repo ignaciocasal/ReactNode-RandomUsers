@@ -13,6 +13,7 @@ Here is a working live demo: https://react-node-random-users.netlify.app/
 - Redux
 - Node.js
 - Express
+- ES6+
 - Random User Generator (API)
 - Semantic UI
 - Axios
