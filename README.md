@@ -1,7 +1,7 @@
 ![Screenshot](https://github.com/ignaciocasal/ReactNode-RandomUsers/blob/master/screenshot/1.png?raw=true)
 
 # React-Node | Random Users
-This is a simple SPA that displays sixteen random users on every refresh by using [Random User Generator API](https://randomuser.me). It was built using React, Node.js, Express and Webpack. Semantic UI was used for the UI.
+This is a simple SPA that displays random users on every refresh by using [Random User Generator API](https://randomuser.me). It was built using React, Node.js, Express and Webpack. Semantic UI was used for the UI.
 
 # Demo
 
